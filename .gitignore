@@ -12,3 +12,24 @@ neutralino.js
 # Neutralinojs related files
 .storage
 *.log
+
+trace-in-vue-app/.DS_Store
+trace-in-vue-app/node_modules
+trace-in-vue-app/dist
+
+trace-in-vue-app/# local env files
+trace-in-vue-app/.env.local
+trace-in-vue-app/.env.*.local
+
+trace-in-vue-app/npm-debug.log*
+trace-in-vue-app/yarn-debug.log*
+trace-in-vue-app/yarn-error.log*
+trace-in-vue-app/pnpm-debug.log*
+
+trace-in-vue-app/.idea
+trace-in-vue-app/.vscode
+trace-in-vue-app/*.suo
+trace-in-vue-app/*.ntvs*
+trace-in-vue-app/*.njsproj
+trace-in-vue-app/*.sln
+trace-in-vue-app/*.sw?
