@@ -1,0 +1,3 @@
+[submodule "trace-in-vue-app"]
+	path = trace-in-vue-app
+	url = ./trace-in-vue-app
