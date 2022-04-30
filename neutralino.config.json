@@ -14,8 +14,8 @@
       "title": "TracePin Tool",
       "width": 1000,
       "height": 700,
-      "minWidth": 400,
-      "minHeight": 200,
+      "minWidth": 1080,
+      "minHeight": 720,
       "icon": "/trace-in-vue-app/public/logo.svg"
     }
   },
