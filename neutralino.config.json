@@ -11,12 +11,17 @@
   ],
   "modes": {
     "window": {
-      "title": "TracePin Tool",
+      "title": "TraceIn",
       "width": 1000,
       "height": 700,
       "minWidth": 1080,
       "minHeight": 720,
-      "icon": "/trace-in-vue-app/public/logo.svg"
+      "icon": "/trace-in-vue-app/public/logo.svg",
+      "enableInspector": false,
+      "borderless": false,
+      "maximize": false,
+      "hidden": false,
+      "exitProcessOnClose": true
     }
   },
   "cli": {
