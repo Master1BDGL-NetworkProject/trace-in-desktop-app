@@ -20,7 +20,7 @@
     }
   },
   "cli": {
-    "binaryName": "trace-in-desktop-app",
+    "binaryName": "trace-in",
     "resourcesPath": "/trace-in-vue-app/dist/",
     "extensionsPath": "/extensions/",
     "clientLibrary": "/trace-in-vue-app/public/vendor/neutralino/neutralino.js",
